@@ -1,6 +1,6 @@
 # Blocryp Developer Documentation
 
-Welcome to the Blocryp open protocol documentation repository. This repo contains detailed, SEO-optimized markdown files covering the core technical foundations behind Blocryp's Web3 & Fintech protocols.
+Welcome to the Blocryp documentation repository. This repo contains detailed, SEO-optimized markdown files covering the core technical foundations behind Blocryp protocols.
 
 ## Contents
 
