@@ -5,9 +5,6 @@ Welcome to the Blocryp documentation repository. This repo contains detailed, SE
 ## Contents
 
 - [Introduction](docs/introduction.md)
-- [Architecture Overview](docs/architecture.md)
-- [IP & Trademark Strategy](docs/ip-trademark.md)
-- [SEO & Content Strategy](docs/seo-content.md)
 
 ---
 
